@@ -41,9 +41,5 @@ Python 3.7.4
  ## **Setup**:
  Windows 8.1 Pro
  
- 
- 
-
- That's all ;)
-
+ Will be finished soon.
 
