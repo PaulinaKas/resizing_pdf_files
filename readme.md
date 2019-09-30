@@ -1,5 +1,7 @@
 # The app resizing .pdf files
 
+<img src="image_for_readme.png" width="700">
+
 ## Table of contents:
 #### * General info
 #### * Technologies 
