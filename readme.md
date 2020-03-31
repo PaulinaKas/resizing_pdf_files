@@ -37,9 +37,5 @@ Python 3.7.4
  - **cv2**
  - **numpy**
  - **PIL**
- 
- ## **Setup**:
- Windows 8.1 Pro
- 
- Will be finished soon.
+
 
